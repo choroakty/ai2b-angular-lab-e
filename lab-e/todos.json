@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "deadline": "1900-01-01",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "id": 2,
+      "title": "Hello World Again",
+      "deadline": "1900-01-01",
+      "completed": true,
+      "archived": false
+    },
+    {
+      "title": "asdasd",
+      "deadline": "2000-01-01",
+      "completed": false,
+      "archived": false,
+      "id": 3
+    },
+    {
+      "title": "tak",
+      "deadline": "2023-12-15",
+      "completed": false,
+      "archived": false,
+      "id": 4
+    },
+    {
+      "deadline": "2023-12-06T23:00:00.000Z",
+      "title": "sdfsdf",
+      "completed": false,
+      "archived": false,
+      "id": 5
+    }
+  ]
+}
